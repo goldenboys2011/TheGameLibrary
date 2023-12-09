@@ -1,2 +1,5 @@
-function mario():
-     print("test")
+function game(game):
+     if game=="Mario":
+         print("Mario")
+     elif game=="Pong":
+          print("pong")
